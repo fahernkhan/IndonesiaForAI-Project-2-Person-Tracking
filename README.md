@@ -71,6 +71,9 @@ Evaluation For fiftyone Setup.
     * YOLOV8m
     * YOLOV8l
     * YOLOV8x
+## Model Comparison
+![image](https://github.com/fahernkhan/IndonesiaForAI-Project-2-Person-Tracking/assets/128980804/0442b2b1-87f8-4e32-b4d5-e4ee56dc70b5)
+
 
 ## Contributing
 
