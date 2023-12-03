@@ -10,7 +10,7 @@ Eksplorasi algoritma Faster RCNN dan YOLO diharapkan memberikan solusi terkait d
 
 Proyek ini bertujuan mengatasi kendala deteksi dalam kerumunan, perubahan pose, dan pemantauan real-time, mendukung pengembangan sistem pelacakan manusia yang lebih efisien..
 
-![](header.png)
+![Person Tracking](https://dapraxis.github.io/assets/imgs/posts/Social/eucl.gif)
 
 ## Installation
 
